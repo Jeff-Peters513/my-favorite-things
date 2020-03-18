@@ -3,4 +3,6 @@ my-favorite sports
 snow skiing
 soccer
 football
-
+tennis
+pool
+NCAA
